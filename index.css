@@ -9,12 +9,29 @@ h1 {
 		color:red;
 		text-decoration:none;
 		display:block;
-		margin-left:140px;
+		margin: 0 auto;
 		border: 2px solid black;
 		background-color: pink;
-		width:80px;
-		text-align:center;
-		margin-bottom:20px;
+		border-radius: 25px;
+		text-align:center;	
+		padding: 10px;	
+		font-size:32px;
+	}
+
+	.menu__bar_item1 {
+		background-color:yellow;
+		border-color:yellow;
+	}
+
+	.menu__bar_item2 {
+		background-color:red;
+		color:black;
+		border-color:red;
+	}
+
+	.menu__bar_item3 {
+		background-color:blue;
+		border-color:blue;
 	}
 }
 
